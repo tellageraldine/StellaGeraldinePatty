@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffface;
+}
+
+.list-group-item {
+  text-align: justify;
+  text-justify: inter-word; /* Agar jarak antar kata lebih proposional */
+}
+
+#projects {
+  background-color: #ffface;
+}
+
+section {
+  padding-top: 5rem;
+}
